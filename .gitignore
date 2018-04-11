@@ -1,0 +1,11 @@
+# Node
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+package-lock.json
+dist
+
+# Python
+.pyc
