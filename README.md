@@ -1,2 +1,7 @@
 # React Brik
-Entar na pasta do projeto e rodar ` npm start `.
+## Install and start
+```
+$ git clone https://github.com/2bec/react-brik.git
+$ cd react-brik/brik
+$ npm start
+```

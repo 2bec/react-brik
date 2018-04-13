@@ -1,0 +1,168 @@
+[{
+		"id": 1,
+		"name": "Camiseta manga curta",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 24.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 1,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 2,
+		"name": "Camiseta manga longa",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 44.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 2,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Calça",
+		"description": "Calça preta em bom estado de conservação. Com joelheira em couro.",
+		"meta": "Escola Estadual Lagoa Azul",
+		"price": 29.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 3,
+			"name": "André",
+			"email": "andre@gmail.com",
+			"phone": "(51) 98789-5438"
+		}
+	},
+	{
+		"id": 4,
+		"name": "Bermuda",
+		"description": "Bermuda preta com listras laterais verdes. Sem uso, nova.",
+		"meta": "Escola Municipal João XXIII",
+		"price": 12.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 4,
+			"name": "Eduardo",
+			"email": "eduardo@gmail.com",
+			"phone": "(51) 93241-2568"
+		}
+	},
+	{
+		"id": 5,
+		"name": "Camiseta manga curta",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 24.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 1,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 6,
+		"name": "Camiseta manga longa",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 44.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 2,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 7,
+		"name": "Calça",
+		"description": "Calça preta em bom estado de conservação. Com joelheira em couro.",
+		"meta": "Escola Estadual Lagoa Azul",
+		"price": 29.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 3,
+			"name": "André",
+			"email": "andre@gmail.com",
+			"phone": "(51) 98789-5438"
+		}
+	},
+	{
+		"id": 8,
+		"name": "Bermuda",
+		"description": "Bermuda preta com listras laterais verdes. Sem uso, nova.",
+		"meta": "Escola Municipal João XXIII",
+		"price": 12.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 4,
+			"name": "Eduardo",
+			"email": "eduardo@gmail.com",
+			"phone": "(51) 93241-2568"
+		}
+	},
+	{
+		"id": 9,
+		"name": "Camiseta manga curta",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 24.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 1,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 10,
+		"name": "Camiseta manga longa",
+		"description": "Camiseta branca, com listras azuis e simbolo da escola central na frente.",
+		"meta": "Escola Menino Deus",
+		"price": 44.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 2,
+			"name": "Robson",
+			"email": "bob@gmail.com",
+			"phone": "(51) 99999-5588"
+		}
+	},
+	{
+		"id": 11,
+		"name": "Calça",
+		"description": "Calça preta em bom estado de conservação. Com joelheira em couro.",
+		"meta": "Escola Estadual Lagoa Azul",
+		"price": 29.99,
+		"condition": "Usada",
+		"seller": {
+			"id": 3,
+			"name": "André",
+			"email": "andre@gmail.com",
+			"phone": "(51) 98789-5438"
+		}
+	},
+	{
+		"id": 12,
+		"name": "Bermuda",
+		"description": "Bermuda preta com listras laterais verdes. Sem uso, nova.",
+		"meta": "Escola Municipal João XXIII",
+		"price": 12.99,
+		"condition": "Nova",
+		"seller": {
+			"id": 4,
+			"name": "Eduardo",
+			"email": "eduardo@gmail.com",
+			"phone": "(51) 93241-2568"
+		}
+	}]
